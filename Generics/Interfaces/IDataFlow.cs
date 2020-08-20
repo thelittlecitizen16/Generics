@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Generics
+namespace Generics.Interfaces
 {
     public interface IDataFlow<T> where T : class
     {
